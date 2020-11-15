@@ -1,8 +1,8 @@
-books{color:white; background-color:yellow; width:100%}
+books{color:white; background-color:#ed1a23; width:100%}
 heading{
-color:green;
+color:white;
 font-size:40px;
-background-color:powderblue;
+background-color:black;
 }
 
 heading,title,author,publisher,price{
